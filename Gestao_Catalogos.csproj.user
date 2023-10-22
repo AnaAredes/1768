@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\hugog\Desktop\Gestao_Catalogos_Final\Gestao_Catalogos\Gestao_Catalogos\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAlterarFregCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormApagarEditarLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCadastrarFreguesia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCadastrarLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCadastrarProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGravarProvCom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVerCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVerLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
